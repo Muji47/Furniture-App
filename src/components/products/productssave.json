@@ -1,0 +1,155 @@
+{
+    "furniture": [
+      {
+        "category": "Chairs",
+        "image": "../images/chaircat.jpeg",
+        "subcategories": [
+          {
+            "id":11,
+            "subcategory": "Dining Chairs",
+            "image": "../images/dining.jpeg",
+            "price": 100.0,
+            "description": "Elegant dining chair with cushioned seat for comfort.",
+            "itemQty":1
+          },
+          {
+            "id":12,
+            "subcategory": "Armchairs",
+            "image": "../images/armchair.jpeg",
+            "price": 150.0,
+            "description": "Stylish armchair with plush upholstery.",
+            "itemQty":1
+          },
+          {
+            "id":13,
+            "subcategory": "Office Chairs",
+            "image": "../images/officechair.jpeg",
+            "price": 120.0,
+            "description": "Ergonomic office chair with adjustable features.",
+            "itemQty":1
+          }
+        ]
+      },
+      {
+        "category": "Tables",
+        "image":"../images/tablescat.jpeg",
+        "subcategories": [
+          {
+            "id":21,
+            "subcategory": "Coffee Tables",
+            "image": "../images/coffeetable.jpeg",
+            "price": 80.0,
+            "description": "Modern coffee table with a glass top.",
+            "itemQty":1
+          },
+          {
+            "id":22,
+            "subcategory": "Dining Tables",
+            "image": "../images/dinnigtable.jpeg",
+            "price": 200.0,
+            "description": "Solid wood dining table for family gatherings.",
+            "itemQty":1
+          },
+          {
+            "id":23,
+            "subcategory": "Writing Desks",
+            "image": "../images/studytable.jpeg",
+            "price": 120.0,
+            "description": "Sleek writing desk with ample workspace.",
+            "itemQty":1
+          }
+        ]
+      },
+      {
+        "category": "Sofas",
+        "image":"../images/sofacat.jpeg",
+        "subcategories": [
+          {
+            "id":31,
+            "subcategory": "Sectional Sofas",
+            "image": "../images/sectionalsofa.jpeg",
+            "price": 450.0,
+            "description": "Spacious sectional sofa with chaise.",
+            "itemQty":1
+          },
+          {
+            "id":32,
+            "subcategory": "Recliners",
+            "image": "../images/rectinersofa.jpeg",
+            "price": 300.0,
+            "description": "Comfortable recliner chair with built-in footrest.",
+            "itemQty":1
+          },
+          {
+            "id":33,
+            "subcategory": "Sleeper Sofas",
+            "image": "../images/sleeper.jpeg",
+            "price": 600.0,
+            "description": "Versatile sleeper sofa that converts into a bed.",
+            "itemQty":1
+          }
+        ]
+      },
+      {
+        "category": "Beds",
+        "image":"../images/bedscat.jpeg",
+        "subcategories": [
+          {
+            "id":41,
+            "subcategory": "Platform Beds",
+            "image": "../images/platformbeds.jpeg",
+            "price": 250.0,
+            "description": "Minimalist platform bed with storage.",
+            "itemQty":1
+          },
+          {
+            "id":42,
+            "subcategory": "Bunk Beds",
+            "image": "../images/bunksbeds.jpeg",
+            "price": 350.0,
+            "description": "Space-saving bunk bed for kids' rooms.",
+            "itemQty":1
+          },
+          {
+            "id":43,
+            "subcategory": "Canopy Beds",
+            "image": "../images/canopybed.jpeg",
+            "price": 400.0,
+            "description": "Elegant canopy bed with decorative curtains.",
+            "itemQty":1
+          }
+        ]
+      },
+      {
+        "category": "Storage",
+        "image":"../images/storagecar.jpeg",
+        "subcategories": [
+          {
+            "id":51,
+            "subcategory": "Bookshelves",
+            "image": "../images/booksleve.jpeg",
+            "price": 75.0,
+            "description": "Tall bookshelf with adjustable shelves.",
+            "itemQty":1
+          },
+          {
+            "id":52,
+            "subcategory": "Cabinets",
+            "image": "../images/cabinateselve.jpeg",
+            "price": 180.0,
+            "description": "Wooden cabinet with ample storage space.",
+            "itemQty":1
+          },
+          {
+            "id":53,
+            "subcategory": "Wardrobes",
+            "image": "../images/wardrobe.jpeg",
+            "price": 300.0,
+            "description": "Spacious wardrobe with mirrored doors.",
+            "itemQty":1
+          }
+        ]
+      }
+    ]
+  }
+  

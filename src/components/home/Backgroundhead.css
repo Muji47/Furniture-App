@@ -1,0 +1,22 @@
+.headerback{
+    background-image: url('/src/components/asset/Headerbackground.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45rem;
+}
+.newarrival{
+    background-image: url('/src/components/asset/newArrivalsofa.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50rem;
+    height: 27rem;
+    opacity: .7;
+}
+.attachback{
+    background-image: url('/src/components/asset/Officenbackground.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50rem;
+}
